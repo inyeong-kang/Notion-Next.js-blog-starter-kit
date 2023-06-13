@@ -1,26 +1,14 @@
 {
-  "name": "nextjs-notion-starter-kit",
-  "version": "1.0.13",
+  "name": "nextjs-notion-jero-blog",
+  "version": "1.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
+  "description": "Jero's Custom Blog with Next.js and Notion.",
   "author": {
-    "email": "2skydev@gmail.com",
-    "name": "2skydev",
-    "url": "https://github.com/2skydev"
+    "email": "tomatorkd@naver.com",
+    "name": "inyeong-kang",
+    "url": "https://github.com/inyeong-kang"
   },
-  "contributors": [
-    {
-      "email": "wmsttks@gmail.com",
-      "name": "yoonjihong",
-      "url": "https://github.com/yoonjihong"
-    },
-    {
-      "email": "webd200@gmail.com",
-      "name": "jong-hui",
-      "url": "https://github.com/jong-hui"
-    }
-  ],
-  "repository": "2skydev/blog",
+  "repository": "inyeong-kang/Notion-Next.js-blog-starter-kit",
   "license": "MIT",
   "engines": {
     "node": ">=16"

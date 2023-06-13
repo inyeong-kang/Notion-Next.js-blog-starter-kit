@@ -8,7 +8,7 @@
     "name": "inyeong-kang",
     "url": "https://github.com/inyeong-kang"
   },
-  "repository": "inyeong-kang/Notion-Next.js-blog-starter-kit",
+  "repository": "inyeong-kang/jero-blog",
   "license": "MIT",
   "engines": {
     "node": ">=16"

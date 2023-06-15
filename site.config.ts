@@ -25,7 +25,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon:
-    'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d2daa37-61d0-45b6-b333-9a2bd0bdc3ee%2Fprofile_%25E1%2584%2580%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AA%25E1%2584%258C%25E1%2585%25B5%25E1%2586%25AF_circle.png?table=block&id=d1e89e9e-42eb-4ebf-9486-ae0374039efc&spaceId=2eb5336b-2edb-42d0-bc6c-95d72d4d1b74&width=250&userId=bef10e95-202b-4b6b-9626-7af866b6f9ba&cache=v2',
+    'https://file.notion.so/f/s/9e7593c0-599e-452f-b12e-cb4f34021c25/Pngtreecube-tetris_5408911-_2_.ico?id=01d158b5-f3ed-4917-851e-77e39dcefac6&table=block&spaceId=e5a40596-92ac-46ec-ab00-811a819fb35c&expirationTimestamp=1686912868666&signature=r6MgcSBlOc3LIx2MDZfab_F55WkzGbgQuLqdWLYz484&downloadName=%E2%80%94Pngtree%E2%80%94cube-tetris_5408911-_2_.ico',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
@@ -53,8 +53,8 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '카테고리',
-      pageId: '204a5f2038f749b1b15fe9a6761fbca6'
-    }
+      pageId: '204a5f2038f749b1b15fe9a6761fbca6',
+    },
   ],
 
   // -------- custom configs (2skydev) -------------
